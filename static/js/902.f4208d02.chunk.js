@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkelectron_app=self.webpackChunkelectron_app||[]).push([[902],{3902:function(e,t,n){n.r(t);var r=n(8935),a=n(7354),c=n(7689),s=n(5486),u=(n(7193),n(184));t.default=function(){var e=(0,c.s0)();return(0,u.jsx)(r.ZP,{status:"403",title:"403",subTitle:"Sorry, you are not authorized to access this page.",extra:(0,u.jsx)(a.ZP,{type:"primary",onClick:function(){e(s.f)},children:"Back Home"})})}},7193:function(){}}]);
-//# sourceMappingURL=902.f4208d02.chunk.js.map
